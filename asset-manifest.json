@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./eco2s-wap-dist/static/css/main.2482d1fa.chunk.css",
-    "main.js": "./eco2s-wap-dist/static/js/main.04846e34.chunk.js",
-    "main.js.map": "./eco2s-wap-dist/static/js/main.04846e34.chunk.js.map",
-    "runtime-main.js": "./eco2s-wap-dist/static/js/runtime-main.db1c0159.js",
-    "runtime-main.js.map": "./eco2s-wap-dist/static/js/runtime-main.db1c0159.js.map",
-    "static/css/2.d439af34.chunk.css": "./eco2s-wap-dist/static/css/2.d439af34.chunk.css",
-    "static/js/2.b392f975.chunk.js": "./eco2s-wap-dist/static/js/2.b392f975.chunk.js",
-    "static/js/2.b392f975.chunk.js.map": "./eco2s-wap-dist/static/js/2.b392f975.chunk.js.map",
-    "index.html": "./eco2s-wap-dist/index.html",
-    "precache-manifest.968d57e794442da86209ee0e658a3024.js": "./eco2s-wap-dist/precache-manifest.968d57e794442da86209ee0e658a3024.js",
-    "service-worker.js": "./eco2s-wap-dist/service-worker.js",
-    "static/css/2.d439af34.chunk.css.map": "./eco2s-wap-dist/static/css/2.d439af34.chunk.css.map",
-    "static/css/main.2482d1fa.chunk.css.map": "./eco2s-wap-dist/static/css/main.2482d1fa.chunk.css.map",
-    "static/js/2.b392f975.chunk.js.LICENSE.txt": "./eco2s-wap-dist/static/js/2.b392f975.chunk.js.LICENSE.txt",
-    "static/media/onsenui.min.css": "./eco2s-wap-dist/static/media/ionicons.cfdc1522.ttf",
-    "static/media/SearchBar.module.scss": "./eco2s-wap-dist/static/media/thumb_gray.5755b451.svg"
+    "main.css": "./static/css/main.2482d1fa.chunk.css",
+    "main.js": "./static/js/main.0281abf5.chunk.js",
+    "main.js.map": "./static/js/main.0281abf5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ad64fcca.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ad64fcca.js.map",
+    "static/css/2.d439af34.chunk.css": "./static/css/2.d439af34.chunk.css",
+    "static/js/2.0ec732dc.chunk.js": "./static/js/2.0ec732dc.chunk.js",
+    "static/js/2.0ec732dc.chunk.js.map": "./static/js/2.0ec732dc.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.cc19c838f2822151d5efbc539d76508a.js": "./precache-manifest.cc19c838f2822151d5efbc539d76508a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.d439af34.chunk.css.map": "./static/css/2.d439af34.chunk.css.map",
+    "static/css/main.2482d1fa.chunk.css.map": "./static/css/main.2482d1fa.chunk.css.map",
+    "static/js/2.0ec732dc.chunk.js.LICENSE.txt": "./static/js/2.0ec732dc.chunk.js.LICENSE.txt",
+    "static/media/onsenui.min.css": "./static/media/ionicons.cfdc1522.ttf",
+    "static/media/SearchBar.module.scss": "./static/media/thumb_gray.5755b451.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db1c0159.js",
+    "static/js/runtime-main.ad64fcca.js",
     "static/css/2.d439af34.chunk.css",
-    "static/js/2.b392f975.chunk.js",
+    "static/js/2.0ec732dc.chunk.js",
     "static/css/main.2482d1fa.chunk.css",
-    "static/js/main.04846e34.chunk.js"
+    "static/js/main.0281abf5.chunk.js"
   ]
 }
